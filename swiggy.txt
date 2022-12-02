@@ -1,0 +1,13 @@
+1001,103,Shwetha,Arekere,2,9788077430, 
+1003,110,Karthik,Gottigere,3,9998877665, 
+1004,104,Samyuktha,MG road,4,9887667770, 
+1005,109,Srujan,HSR layout,2,98715,34566 
+1006,118,Sameer,Bommanhalli,5,8854321456, 
+1007,114,Sanjana,JP Nagar,3,9998867543, 
+1008,119,Ram,Jayanagar 4thblock,2,9876567812, 
+1009,108,Ravi, Akshaya Nagar,3,987098432,
+1010,120,Bhavana,Hebbal,1,9765432342,
+1011,119,Mukesh,Nobo nagar,4,8809965432, 
+1012,115,Nandan,Sarjapur,2,9876578965, 
+1014,113,Ratna,Silk Board,2,9765456723, 
+1015,117,Rajiv,Rajaji Nagar,1,9080765674,
